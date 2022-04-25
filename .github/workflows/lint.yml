@@ -25,7 +25,7 @@ jobs:
           bundler-cache: true
 
       - name: Run linters
-        uses: wearerequired/lint-action@v1
+        uses: wearerequired/lint-action@v2
         with:
           rubocop: true
           rubocop_command_prefix: bundle exec
