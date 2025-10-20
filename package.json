@@ -2,9 +2,9 @@
   "name": "warp-next",
   "private": true,
   "dependencies": {
-    "@rails/actioncable": "6.1.4",
-    "@rails/activestorage": "6.1.4",
-    "@rails/ujs": "6.1.4",
+    "@rails/actioncable": "6.1.710",
+    "@rails/activestorage": "6.1.710",
+    "@rails/ujs": "6.1.710",
     "@rails/webpacker": "5.4.3",
     "bulma": "0.9.3",
     "photoswipe": "4.1.3",
