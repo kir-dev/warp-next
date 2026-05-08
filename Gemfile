@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'image_processing', '~> 1.2'
 
 # Use for shorter urls
-gem 'friendly_id', '~> 5.4.0'
+gem 'friendly_id', '~> 5.7.0'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
