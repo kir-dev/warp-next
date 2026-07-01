@@ -1,4 +1,4 @@
-FROM ruby:3.0.2
+FROM ruby:3.4.10
 
 RUN mkdir /warp-next
 WORKDIR /warp-next
